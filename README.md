@@ -18,8 +18,6 @@
   <br>
   📚 I’m currently learning cibersecurity
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
   📫 How to reach me: <a href="mailto: davidperez15@aragon.unam.mx">davidperez15@aragon.unam.mx</a>
 </p>
 
