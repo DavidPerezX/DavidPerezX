@@ -10,7 +10,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm David Pérez, student of Computer Engineer & Data Science from Mèxico
+  Hi, I'm David Pérez, student of Computer Engineering & Data Science from Mèxico
   <br>
   🔬 I'm currently studying Computer Engineering in Universidad Nacional Autónoma de México
   <br>
