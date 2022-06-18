@@ -1,6 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
 <h1 align="center">
+  <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Kdam+Thmor+Pro&lines=Hello,+There!+👋;Welcome+to+my+github profile...;Nice+to+meet+you!&center=true">
   </a>
 </h1>
