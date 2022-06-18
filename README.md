@@ -15,16 +15,15 @@
   <br>
   🔬 I'm currently studying Computer Engineering in Universidad Nacional Autónoma de México
   <br>
-   💻 I´ am also studying Data Science in Dev.f
+   💻 I´m also studying Data Science in Dev.f
   <br>
   
-
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  📚 I’m currently learning cibersecurity
   <br>
   💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: davidperez15@aragon.unam.mx">davidperez15@aragon.unam.mx</a>
 </p>
 
 <hr>
