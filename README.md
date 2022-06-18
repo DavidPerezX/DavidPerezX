@@ -13,13 +13,12 @@
   Hi, I'm David Pérez, student of Computer Engineer & Data Science from Mèxico
   <br>
   <br>
-  🔬 I'm currently studying in Universidad Nacional Autónoma de México
+  🔬 I'm currently studying Computer Engineering in Universidad Nacional Autónoma de México
   <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
+   💻 I´ am also studying Data Science in Dev.f
   <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
-  💻 I love writing code and learn anythings about it
+  
+
   <br>
   📚 I’m currently learning how to build E-Commerce Website with Django
   <br>
