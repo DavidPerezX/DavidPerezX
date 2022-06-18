@@ -16,8 +16,6 @@
   <br>
    💻 I´m also studying Data Science in Dev.f
   <br>
-  
-  <br>
   📚 I’m currently learning cibersecurity
   <br>
   💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
