@@ -12,7 +12,6 @@
 <p align="center">
   Hi, I'm David Pérez, student of Computer Engineer & Data Science from Mèxico
   <br>
-  <br>
   🔬 I'm currently studying Computer Engineering in Universidad Nacional Autónoma de México
   <br>
    💻 I´m also studying Data Science in Dev.f
