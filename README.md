@@ -56,8 +56,6 @@
 
 </details>
 
-<br>
-
 <hr>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
