@@ -1,4 +1,4 @@
-<img align="right-center" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right-center" src="https://visitor-badge.laobi.icu/badge?page_id=DavidPerezX.DavidPerezX">
 
 <div align="right">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kdam+Thmor+Pro&&color=19F7A3&size=30&center=true&vCenter=true&width=450&lines=Hello%2C+There!+%F0%9F%91%8B;Welcome+to+my+github+profile"></a>
