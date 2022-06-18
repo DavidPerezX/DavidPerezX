@@ -1,10 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Kdam+Thmor+Pro&lines=Hello,+There!+👋;Welcome+to+my+github profile...;Nice+to+meet+you!&center=true">
-  </a>
-</h1>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Caroline;Computer+Engineering+Student;Brazilian+Front-end+Dev;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
+</div>
 
 <h5 align="center">
   <code>
