@@ -15,10 +15,10 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Hi, I'm David Pérez, student ofComputer Engineer & Data Science from Mèxico
   <br>
   <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
+  🔬 I'm currently studying in Universidad Nacional Autónoma de México
   <br>
   🎓 I graduated from Black Sea Technical University Computer Engineering Department
   <br>
