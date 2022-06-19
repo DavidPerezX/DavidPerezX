@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DavidPerezX.DavidPerezX">
 
 <div align="right">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kdam+Thmor+Pro&&color=19F7A3&size=30&center=true&vCenter=true&width=480&lines=Hello%2C+There!+%F0%9F%91%8B;Welcome+to+my+github+profile"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kdam+Thmor+Pro&&color=4FE8F7&size=30&center=true&vCenter=true&width=480&lines=Hello%2C+There!+%F0%9F%91%8B;Welcome+to+my+github+profile"></a>
 </div>
 
 <h5 align="center">
