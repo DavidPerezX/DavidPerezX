@@ -21,7 +21,7 @@
   📫 How to reach me: <a href="mailto: davidperez15@aragon.unam.mx">davidperez15@aragon.unam.mx</a>
 </p>
 
-<img src="https://github.com/DavidPerezX/DavidPerezX/blob/output/github-contribution-grid-snake.svg" width="100%" />
+
 
 <hr>
 <details>
@@ -54,6 +54,7 @@
   </div>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=DavidPerezX&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github.com/DavidPerezX/DavidPerezX/blob/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
 </details>
