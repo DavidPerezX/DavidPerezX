@@ -21,6 +21,8 @@
   📫 How to reach me: <a href="mailto: davidperez15@aragon.unam.mx">davidperez15@aragon.unam.mx</a>
 </p>
 
+<img src="https://github.com/DavidPerezX/DavidPerezX/blob/output/github-contribution-grid-snake.svg" width="100%" />
+
 <hr>
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
