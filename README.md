@@ -55,7 +55,7 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=DavidPerezX&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
     <div align="right">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kdam+Thmor+Pro&&color=19F7A3&duration=3000&size=30&center=true&vCenter=true&width=480&lines=Contribution%2C+Graph"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kdam+Thmor+Pro&&color=19F7A3&duration=3000&size=30&center=true&vCenter=true&width=480&lines=Contribution+Graph"></a>
 </div>
   <img src="https://github.com/DavidPerezX/DavidPerezX/blob/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
