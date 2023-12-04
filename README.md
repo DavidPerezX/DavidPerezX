@@ -16,7 +16,7 @@
   <br>
    💻 I´m also studying Data Science in Dev.f
   <br>
-  📚 I’m currently learning cibersecurity
+  📚 I’m currently learning cybersecurity
   <br>
   📫 How to reach me: <a href="mailto: davidperez15@aragon.unam.mx">davidperez15@aragon.unam.mx</a>
 </p>
